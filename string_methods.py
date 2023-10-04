@@ -10,5 +10,9 @@ print(a.rstrip("!"))
 # x = a.rstrip("!")   [rstrip only removes character from right end]
 # print(x)
 
+print(a.replace("saumya","john"))
+
+print(a.split(" "))
+
 
 
